@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Riya Singh!
+# 👋 Hey, I'm Riya Singh!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=9B8AFB&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Ideas+Into+Real+Projects+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+GenAI+Explorer+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%E2%9C%A8" alt="Typing animation" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=riya-1091&label=PROFILE+VIEWS&color=9B8AFB&style=for-the-badge)](https://github.com/riya-1091)
-[![GitHub followers](https://img.shields.io/github/followers/riya-1091?label=FOLLOWERS&style=for-the-badge&color=8B7CF6)](https://github.com/riya-1091?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/riya-1091?affiliations=OWNER&style=for-the-badge&color=9B8AFB&label=REPO+STARS)](https://github.com/riya-1091?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-riya--1091-181717?style=for-the-badge&logo=github)](https://github.com/riya-1091)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riya-singh-a47ba3384/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyahere1100011@gmail.com)
 
 </div>
 
@@ -14,43 +14,72 @@
 
 ## 💫 About Me
 
-I'm a Computer Science Engineering student from India who enjoys building things, experimenting with new technologies, and turning ideas into practical solutions.
+I'm a second-year Computer Science Engineering student who loves experimenting with technology, building projects, and turning creative ideas into working solutions.
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering**.
-- 💻 Interested in **Full Stack Development & Software Engineering**.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**.
-- 🔭 Currently working on [CodeLoop](https://codeloop-1.vercel.app/).
-- 🧪 Building AI-powered projects and experimenting with innovative ideas.
-- 🌱 Learning about Open Source, system design and content creation.
-- 🤝 Open to collaborating on interesting projects and open-source initiatives.
-- ⚡ Fun fact: I'm a curious mind with a creative side.
+I enjoy working at the intersection of software development, AI, and design. From developing full-stack applications to experimenting with machine learning, I like exploring how technology can solve real-world problems.
+
+- 🎓 B.Tech CSE @ K.R. Mangalam University
+- 💻 Interested in Full Stack Development & Software Engineering
+- 🤖 Exploring AI, Machine Learning & Generative AI
+- 🔭 Currently building **[CodeLoop](https://codeloop-1.vercel.app/)**
+- 🧠 Working on AI-powered projects and practical applications
+- 🏆 Participating in hackathons and technical challenges
+- 🌱 Currently learning DSA, Open Source & advanced development concepts
+- 🤝 Open to collaborations, interesting projects and open-source contributions
+- 🎨 Also interested in UI/UX, graphic design and creative technology
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 CodeLoop
 
-An initiative focused on building affordable technology solutions for businesses and bringing practical ideas to life.
+An initiative focused on making technology accessible and useful for local businesses.
 
-**Focus:** Web Development, Business Solutions & AI.
+- Web development solutions
+- Digital business presence
+- Practical AI integrations
+- Technology-driven business solutions
 
-[Explore CodeLoop →](https://codeloop-1.vercel.app/)
+🌐 [Visit CodeLoop](https://codeloop-1.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 SEPSISGUARD AI
+### 🧬 SEPSISGUARD AI
 
-An AI-based sepsis prediction and monitoring project featuring machine learning and an interactive dashboard.
+An experimental machine-learning project focused on early sepsis risk prediction using patient data.
 
-**Focus:** Machine Learning, Healthcare AI & Data Science.
+- Machine learning models
+- Healthcare data analysis
+- Model evaluation
+- Interactive Streamlit dashboard
 
-[Explore Repository →](https://github.com/Riya-1091/SEPSISGUARD-AI)
+💻 [View Repository](https://github.com/Riya-1091/SEPSISGUARD-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 RESQ AI
+
+An emergency reporting and response coordination system developed during Hack & Build 2026.
+
+**Focus:** AI, emergency coordination and full-stack development.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 PAIMANA
+
+A predictive analytics project developed for Build With Bharat 2.0, focused on project overrun prediction.
+
+**Focus:** Machine Learning, XGBoost, LightGBM and explainable AI.
 
 </td>
 </tr>
@@ -58,33 +87,38 @@ An AI-based sepsis prediction and monitoring project featuring machine learning 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" />
 </p>
 
-### AI / ML & Data Science
+### 🤖 AI / ML & Data Science
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### Tools & Design
+### 🧰 Tools & Design
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,photoshop&theme=dark" />
 </p>
 
 ---
@@ -93,43 +127,65 @@ An AI-based sepsis prediction and monitoring project featuring machine learning 
 
 <div align="center">
 
-### GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riya-1091&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Riya's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riya-1091&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-1091&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-### ⚡ Contribution Streak
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=riya-1091&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
+### 🔥 Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=riya-1091&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+
+<br/><br/>
 
 ### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riya-1091&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-
-### 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=riya-1091&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riya-1091&theme=tokyo-night&hide_border=true&area=true&custom_title=Riya's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://linkedin.com/in/riya-singh1091">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://kaggle.com/riyasingh10011">
-<img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="mailto:riyahere1100011@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/riya-1091">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/riya-1091/riya-1091/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🚀 Participated in Hack & Build 2026 at Nagarro, Gurgaon.
+- 🇮🇳 Participated in Build With Bharat 2.0 at NIT Delhi.
+- 🧬 Developed an experimental healthcare AI prediction project.
+- 💡 Building technology solutions through CodeLoop.
+- 🎤 Interested in technical presentations, innovation and hackathons.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science Engineering**
+
+K.R. Mangalam University
+
+2025 – 2029
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting people who enjoy building, experimenting and learning new things.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riya-singh-a47ba3384/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/riyasingh10011)
+[![GitHub](https://img.shields.io/badge/GitHub-riya--1091-black?style=for-the-badge&logo=github)](https://github.com/riya-1091)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:riyahere1100011@gmail.com)
 
 </div>
 
@@ -137,10 +193,10 @@ An AI-based sepsis prediction and monitoring project featuring machine learning 
 
 <div align="center">
 
-### ✨ "Building, breaking, learning, and building again."
+### ✨ Build. Break. Learn. Repeat.
 
-**Thanks for visiting my profile! 💜**
+*Curiosity creates possibilities.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=120&section=footer" width="100%" />
 
 </div>
